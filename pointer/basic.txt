@@ -1,0 +1,16 @@
+Pointer
+-------
+Pointer is a derived data type 
+It is a variable which stores address of another variable 
+
+array 
+can store 10 elements      arr[10]  -- 10 is size
+can give access to each and every element    -- arr[9] -> 9 is index
+
+pointer 
+will store address 
+*p -> will provide you address at that value 
+
+
+Addition 
+conditionals 

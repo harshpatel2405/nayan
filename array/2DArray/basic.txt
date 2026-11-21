@@ -1,0 +1,42 @@
+rows or columns 
+
+rows and columns
+
+multi dimensional array 
+
+2D Array 
+
+Syntax 
+int arr[r][c];
+
+rows = 3 , columns = 3
+   0 1 2
+0  1 2 3 
+1  4 5 6
+2  7 8 9  
+
+1 - 00
+2 - 01
+3 - 02
+4 - 10
+5 - 11
+6 - 12
+7 - 20
+8 - 21
+9 - 22
+{10,20,30,40,50}
+
+{
+    {1,2,3},
+    {4,5,6},
+    {7,8,9}
+}
+
+print normal 
+print matrix
+sum 
+multiplication 
+odd_even_print _sum 
+row wise sum 
+column wise sum 
+diagonal sum  (primary and secondary)

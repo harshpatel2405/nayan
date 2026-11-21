@@ -1,0 +1,31 @@
+arr[20]; //  20 * 4 bytes
+
+5 values (15 values space  X)
+25 values ( extra 5 X)
+
+Static 
+------
+which allocated memory before compiling 
+
+DYNAMIC MEMORY ALLOCATION 
+-------------------------
+run time 
+35 -> done 
+1 -> done
+
+1. malloc   1 args  garbage value   faster
+location --> address 
+(datatype*) malloc (n * sizeof(datatype))
+
+
+2. calloc   2 args  intialized 0  slower
+(datatype*) calloc (n , sizeof(datatype))
+
+
+3. realloc 
+4. free 
+
+Dangling Pointer --> 
+
+10 * 1   1
+10 , 1   2

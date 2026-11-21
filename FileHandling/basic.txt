@@ -1,0 +1,38 @@
+File 
+-----
+File is something where we can store data permanently
+
+1. Write  w
+2. Read   r
+
+fopen -- to open File
+fclose -- to close file 
+
+
+1. w - write  -- overrides the data 
+2. a - append -- will add data after the last added data 
+3. r - reads the data 
+4. r+ -> read and write mode 
+5. w+ -> write and read mode
+6. a+ -> append and read mode 
+7. rb -> reading from binary file 
+8. wb -> write in binary file 
+9. ab -> append in binary file
+
+
+write        read
+fprintf      fscanf
+fputs        fgets
+putc         getc
+fwrite       fread
+
+
+fseek - to move the pointer 
+ftell -- know pointer position 
+
+fseek();  beg, cur , end
+
+10,beg
+-11, cur 
+-10,end
+

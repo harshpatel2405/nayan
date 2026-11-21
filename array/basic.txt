@@ -1,0 +1,73 @@
+sub1 , sub2 , sub3 , sub4 
+
+array -> contigous memory
+index -- 0
+
+Why does the array index start with zero? 
+
+arr[5] -> size  
+int -> 4 byte 
+
+total space - 20 bytes
+
+arr[0]
+arr[1]
+arr[2]
+
+Array is a collection of elements of the same data type. 
+
+int arr[]; // Array Declaration 
+
+Array Questions List
+
+🔹 Basic Array Questions
+
+Print all elements of array
+Find sum of array elements
+Find average of array
+Find maximum element
+Find minimum element
+Count even and odd numbers
+Search an element in array
+Reverse an array
+Copy one array into another
+Sort array in ascending order
+
+🔹 Intermediate Array Questions
+
+Sort array in descending order
+Find second largest element
+Find second smallest element
+Find frequency of each element
+Remove duplicates from array
+Merge two arrays
+Insert element at specific position
+Delete element from array
+Left rotate array
+Right rotate array
+
+🔹 Important Logic Questions
+
+Find largest and smallest together
+Find missing number in array
+Check array is palindrome or not
+Count positive and negative numbers
+Separate even and odd numbers
+Move all zeros to end
+Find duplicate elements
+Find unique elements
+Find common elements in two arrays
+Find intersection of arrays
+
+🔹 Advanced Array Questions
+
+Kadane’s Algorithm (Maximum Subarray Sum)
+Prefix Sum Array
+Binary Search
+Linear Search
+Two Sum Problem
+Majority Element
+Stock Buy and Sell
+Trapping Rain Water
+Merge Sorted Arrays
+Rotate Array by K positions

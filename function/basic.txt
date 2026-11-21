@@ -1,0 +1,61 @@
+Function
+--------
+reusable block of code  which can be used again and again 
+
+1. function prototype (declaration)
+2. function definition 
+3. function calling 
+
+
+returnType functionName(args); // prototype   above main function
+
+returnType functionName(args)
+{
+    // logic 
+} // definition   below main function
+
+functionName(args); // calling    wherever it is required
+
+returnType functionName(args)
+{
+    // logic 
+} // definition and prototype  above main function
+
+function scope is block scope 
+anything declared inside function remains in use only in that particular function
+
+returnType                         args 
+----------                         ----
+output                             input 
+does not return - void             with arguments
+returns something - int            without Arguments 
+                    float 
+                    char 
+                    long int
+
+1. Without Return Type without Arguments
+2. Without Return Type With Arguments
+3. With Return Type Without arguments
+4. With Return Type With Arguments 
+
+1 , 2 
+3, 4 
+sunday -> all practice , call by value , call by refernce  , array with function
+
+
+
+ 
+main                  add          
+
+  a  = 56                 a          
+--------          ----------          
+|  45  |          |  45   |          
+--------          ----------          
+  1000               1540
+  
+  passing address of variable instead of value
+
+  arr => &arr[0]
+
+
+  call by reference 

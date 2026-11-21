@@ -1,0 +1,51 @@
+Structure
+---------
+Primitive    int , float, char , double 
+Derived      array , pointers , functions
+User Defined struct , enum , union
+
+
+userDefined -- primtive + derived 
+
+struct structure_name 
+{
+    // * variables
+};
+
+structure values cannot be initialised
+
+above main function
+
+char name[20];
+
+scanf("%s", name);
+
+printf("%s", name);
+
+1st pro - global + adding all data at once
+2nd pro - global + adding data one by one 
+3rd pro - local + adding all data at once 
+4th pro - local + adding data one by one
+
+
+Structure -- all variables sizes will be added
+---------
+struct Employee
+{
+    int id;
+    float marks;
+    char name[20];
+};
+
+Sizeof Employee -- 28 bytes 
+
+Union -- max size is considered
+---------
+union Employee
+{
+    int id;
+    float marks;
+    char name[20];
+};
+
+Sizeof Employee -- 20 bytes 
